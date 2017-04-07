@@ -1,7 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
-    "parent": "block/block",
+	"parent": "block/block",
     "textures": {
+        "particle": "blocks/anvil_base",
         "0": "blocks/anvil_base",
         "1": "blocks/door_spruce_upper",
         "2": "blocks/redstone_block"
@@ -119,7 +120,7 @@
                 "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 14.0 ] },
                 "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 14.0 ] },
                 "south": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 14.0 ] },
-                "west": { "texture": "#0", "uv": [ 0.0, 0.0, -6.0, 15.0 ] },
+                "west": { "texture": "#0", "uv": [ 1.0, 0.0, 0.0, 15.0 ] },
                 "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
                 "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
             }
@@ -300,8 +301,8 @@
             "faces": {
                 "north": { "texture": "#2", "uv": [ 0.0, 0.0, 1.0, 12.0 ] },
                 "east": { "texture": "#2", "uv": [ 0.0, 0.0, 1.0, 12.0 ] },
-                "south": { "texture": "#2", "uv": [ 0.0, 0.0, -3.0, 8.0 ] },
-                "west": { "texture": "#2", "uv": [ 0.0, 0.0, -5.0, 11.0 ] },
+                "south": { "texture": "#2", "uv": [ 1.0, 0.0, 0.0, 12.0 ] },
+                "west": { "texture": "#2", "uv": [ 1.0, 0.0, 0.0, 11.0 ] },
                 "up": { "texture": "#2", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
                 "down": { "texture": "#2", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
             }
@@ -326,7 +327,7 @@
             "faces": {
                 "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
                 "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
-                "south": { "texture": "#0", "uv": [ 0.0, 0.0, -9.0, 9.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 0.0, 0.0, 11.0 ] },
                 "west": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
                 "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
                 "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
@@ -365,7 +366,7 @@
             "faces": {
                 "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
                 "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
-                "south": { "texture": "#0", "uv": [ 0.0, 0.0, -5.0, 9.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 0.0, 0.0, 10.0 ] },
                 "west": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 10.0 ] },
                 "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
                 "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
