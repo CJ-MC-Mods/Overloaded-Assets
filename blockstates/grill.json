@@ -1,5 +1,9 @@
 {
   "variants": {
+    "facing=north": { "model": "ibhstd:grill" },
+    "facing=south": { "model": "ibhstd:grill", "y": 180 },
+    "facing=west":  { "model": "ibhstd:grill", "y": 270 },
+    "facing=east":  { "model": "ibhstd:grill", "y": 90 },
     "normal": { "model": "ibhstd:grill" }
   }
 }

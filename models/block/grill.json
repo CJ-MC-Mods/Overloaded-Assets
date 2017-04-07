@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
-    "parent": "block/block",
+    "parent": "block/orientable",
     "textures": {
-        "particle": "blocks/blocks/blocks/glass",
+        "particle": "blocks/anvil_base",
         "0": "blocks/stone_andesite_smooth",
         "1": "blocks/anvil_base",
         "2": "blocks/iron_block",
