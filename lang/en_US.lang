@@ -26,7 +26,12 @@ tile.6xCompressed:tile.stone.name=6x Compressed Stone
 tile.7xCompressed:tile.stone.name=7x Compressed Stone
 tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
+# Energy
+tile.BlockCreativeGenerator.name=Creative Generator
+# Utility
+tile.BlockInfiniteBarrel.name=Infinity Barrel
+tile.BlockGrill.name=Grill
 
-# Creative Tab
+# Creative Tabs
 itemGroup.IBHSTD_Compressed=IBHSTD Compressed Blocks
 itemGroup.IBHSTD_Energy=IBHSTD Energy
