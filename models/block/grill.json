@@ -1,5 +1,6 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "parent": "block/block",
     "textures": {
         "particle": "blocks/blocks/blocks/glass",
         "0": "blocks/stone_andesite_smooth",
