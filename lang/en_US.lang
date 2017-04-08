@@ -28,6 +28,7 @@ tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
 # Energy
 tile.BlockCreativeGenerator.name=Creative Generator
+
 # Utility
 tile.BlockInfiniteBarrel.name=Infinity Barrel
 tile.BlockGrill.name=Grill
@@ -35,3 +36,4 @@ tile.BlockGrill.name=Grill
 # Creative Tabs
 itemGroup.IBHSTD_Compressed=IBHSTD Compressed Blocks
 itemGroup.IBHSTD_Energy=IBHSTD Energy
+itemGroup.IBHSTD_UTILITY=IBHSTD Utility
