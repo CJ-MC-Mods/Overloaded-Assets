@@ -31,7 +31,9 @@ tile.BlockCreativeGenerator.name=Creative Generator
 
 # Utility
 tile.BlockInfiniteBarrel.name=Infinity Barrel
+tile.BlockInfiniteTank.name=Infinity Tank
 tile.BlockGrill.name=Grill
+
 
 # Creative Tabs
 itemGroup.IBHSTD_Compressed=IBHSTD Compressed Blocks
