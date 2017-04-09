@@ -1,5 +1,5 @@
 {
   "variants": {
-    "normal": { "model": "ibhstd:creativeGenerator" }
+    "normal": { "model": "overloaded:creativeGenerator" }
   }
 }

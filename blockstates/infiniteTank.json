@@ -1,5 +1,5 @@
 {
   "variants": {
-    "normal": { "model": "ibhstd:infiniteTank" }
+    "normal": { "model": "overloaded:infiniteTank" }
   }
 }

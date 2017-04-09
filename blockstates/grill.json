@@ -1,9 +1,9 @@
 {
   "variants": {
-    "facing=north": { "model": "ibhstd:grill" },
-    "facing=south": { "model": "ibhstd:grill", "y": 180 },
-    "facing=west":  { "model": "ibhstd:grill", "y": 270 },
-    "facing=east":  { "model": "ibhstd:grill", "y": 90 },
-    "normal": { "model": "ibhstd:grill" }
+    "facing=north": { "model": "overloaded:grill" },
+    "facing=south": { "model": "overloaded:grill", "y": 180 },
+    "facing=west":  { "model": "overloaded:grill", "y": 270 },
+    "facing=east":  { "model": "overloaded:grill", "y": 90 },
+    "normal": { "model": "overloaded:grill" }
   }
 }

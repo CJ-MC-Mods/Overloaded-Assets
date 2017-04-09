@@ -37,6 +37,6 @@ tile.BlockGrill.name=Grill
 
 
 # Creative Tabs
-itemGroup.IBHSTD_Compressed=IBHSTD Compressed Blocks
-itemGroup.IBHSTD_Energy=IBHSTD Energy
-itemGroup.IBHSTD_UTILITY=IBHSTD Utility
+itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
+itemGroup.Overloaded_Energy=Overloaded Energy
+itemGroup.Overloaded_Utility=Overloaded Utility
