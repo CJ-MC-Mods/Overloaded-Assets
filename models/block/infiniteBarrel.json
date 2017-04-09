@@ -1,0 +1,7 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "parent": "ibhstd:block/infiniteContainer",
+    "textures": {
+        "2": "blocks/emerald_block"
+    }
+}
