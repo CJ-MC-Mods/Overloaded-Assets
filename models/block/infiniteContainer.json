@@ -4,7 +4,7 @@
     "textures": {
         "particle": "blocks/anvil_base",
         "0": "blocks/anvil_base",
-        "1": "blocks/door_spruce_upper",
+        "1": "items/nether_star",
         "2": "blocks/redstone_block"
     },
     "elements": [

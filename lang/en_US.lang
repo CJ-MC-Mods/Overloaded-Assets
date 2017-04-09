@@ -28,6 +28,7 @@ tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
 # Energy
 tile.BlockCreativeGenerator.name=Creative Generator
+tile.BlockInfiniteCapacitor.name=Infinity Capacitor
 
 # Utility
 tile.BlockInfiniteBarrel.name=Infinity Barrel
