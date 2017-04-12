@@ -42,6 +42,7 @@ tile.BlockHyperItemSender.name=Hyper Item Sender
 tile.BlockHyperItemReceiver.name=Hyper Item Receiver
 tile.BlockHyperFluidSender.name=Hyper Fluid Sender
 tile.BlockHyperFluidReceiver.name=Hyper Fluid Receiver
+item.ItemLinkingCard.name=Hyper Linking Card
 
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
