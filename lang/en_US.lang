@@ -35,6 +35,13 @@ tile.BlockInfiniteBarrel.name=Infinity Barrel
 tile.BlockInfiniteTank.name=Infinity Tank
 tile.BlockGrill.name=Grill
 
+#HyperNodes
+tile.BlockHyperEnergySender.name=Hyper Energy Sender
+tile.BlockHyperEnergyReceiver.name=Hyper Energy Receiver
+tile.BlockHyperItemSender.name=Hyper Item Sender
+tile.BlockHyperItemReceiver.name=Hyper Item Receiver
+tile.BlockHyperFluidSender.name=Hyper Fluid Sender
+tile.BlockHyperFluidReceiver.name=Hyper Fluid Receiver
 
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
