@@ -1,0 +1,18 @@
+#
+# junction.mtl
+#
+
+newmtl Material01
+map_Kd blocks/emerald_block
+
+newmtl Material02
+map_Kd blocks/anvil_base
+
+newmtl Material03
+map_Kd blocks/anvil_base
+
+newmtl Material04
+map_Kd blocks/anvil_base
+
+newmtl Material05
+map_Kd blocks/anvil_base
