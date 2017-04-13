@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "overloaded:items/linkingCard"
+    "layer0": "overloaded:items/linking_card"
   }
 }

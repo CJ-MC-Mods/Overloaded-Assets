@@ -1,6 +1,6 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
-    "parent": "overloaded:block/infiniteContainer",
+    "parent": "overloaded:block/infinite_container",
     "textures": {
         "2": "blocks/lapis_block"
     }

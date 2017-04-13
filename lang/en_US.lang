@@ -27,22 +27,23 @@ tile.7xCompressed:tile.stone.name=7x Compressed Stone
 tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
 # Energy
-tile.BlockCreativeGenerator.name=Creative Generator
-tile.BlockInfiniteCapacitor.name=Infinity Capacitor
+tile.blockcreativegenerator.name=Creative Generator
+tile.blockinfinitecapacitor.name=Infinity Capacitor
 
 # Utility
-tile.BlockInfiniteBarrel.name=Infinity Barrel
-tile.BlockInfiniteTank.name=Infinity Tank
-tile.BlockGrill.name=Grill
+tile.blockinfinitebarrel.name=Infinity Barrel
+tile.blockinfinitetank.name=Infinity Tank
+tile.blockgrill.name=Grill
+tile.blockinfinitewatersource.name=Infinite Water Source
 
 #HyperNodes
-tile.BlockHyperEnergySender.name=Hyper Energy Sender
-tile.BlockHyperEnergyReceiver.name=Hyper Energy Receiver
-tile.BlockHyperItemSender.name=Hyper Item Sender
-tile.BlockHyperItemReceiver.name=Hyper Item Receiver
-tile.BlockHyperFluidSender.name=Hyper Fluid Sender
-tile.BlockHyperFluidReceiver.name=Hyper Fluid Receiver
-item.ItemLinkingCard.name=Hyper Linking Card
+tile.blockhyperenergysender.name=Hyper Energy Sender
+tile.blockhyperenergyreceiver.name=Hyper Energy Receiver
+tile.blockhyperitemsender.name=Hyper Item Sender
+tile.blockhyperitemreceiver.name=Hyper Item Receiver
+tile.blockhyperfluidsender.name=Hyper Fluid Sender
+tile.blockhyperfluidreceiver.name=Hyper Fluid Receiver
+item.itemlinkingcard.name=Hyper Linking Card
 
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
