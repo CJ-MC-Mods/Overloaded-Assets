@@ -47,5 +47,4 @@ item.itemlinkingcard.name=Hyper Linking Card
 
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
-itemGroup.Overloaded_Energy=Overloaded Energy
-itemGroup.Overloaded_Utility=Overloaded Utility
+itemGroup.Overloaded_TECH=Overloaded Tech
