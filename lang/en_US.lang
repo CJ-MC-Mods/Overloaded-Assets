@@ -33,8 +33,10 @@ tile.blockinfinitecapacitor.name=Infinity Capacitor
 # Utility
 tile.blockinfinitebarrel.name=Infinity Barrel
 tile.blockinfinitetank.name=Infinity Tank
-tile.blockgrill.name=Grill
+tile.grill.name=Grill
 tile.blockinfinitewatersource.name=Infinite Water Source
+tile.energyextractor.name=Energy Extractor
+
 
 #HyperNodes
 tile.blockhyperenergysender.name=Hyper Energy Sender

@@ -2,19 +2,7 @@
 # Material Count: 2
 
 newmtl None
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
-d 1
-illum 2
-map_Kd boxstick_01_text_01.png
+map_Kd overloaded:blocks/boxstick_01_text_01
 
-newmtl None_shpere_stick_box_01_join_test_02.png
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
-d 1
-illum 2
-map_Kd shpere_stick_box_01_join_test_02.png
+newmtl None_shpere_stick_box_01_join_test_02
+map_Kd overloaded:blocks/shpere_stick_box_01_join_test_02

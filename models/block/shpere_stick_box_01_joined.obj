@@ -2843,7 +2843,7 @@ vn -0.0286 -0.9565 -0.2902
 vn -0.0975 0.0976 -0.9904
 vn -0.0097 0.9951 -0.0980
 vn -0.0097 -0.9951 -0.0980
-usemtl None_shpere_stick_box_01_join_test_02.png
+usemtl None_shpere_stick_box_01_join_test_02
 s off
 f 9/23/7 10/24/7 12/25/7 11/26/7
 f 11/27/8 12/28/8 16/29/8 15/30/8
