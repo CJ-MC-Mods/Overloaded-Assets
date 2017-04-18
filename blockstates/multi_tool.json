@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "overloaded:newtool1.obj" }
+  }
+}
