@@ -29,6 +29,9 @@ tile.8xCompressed:tile.stone.name=8x Compressed Stone
 # Energy
 tile.blockcreativegenerator.name=Creative Generator
 tile.blockinfinitecapacitor.name=Infinity Capacitor
+item.multi_tool.name=Multi Tool
+
+
 
 # Utility
 tile.blockinfinitebarrel.name=Infinity Barrel
@@ -36,6 +39,7 @@ tile.blockinfinitetank.name=Infinity Tank
 tile.grill.name=Grill
 tile.blockinfinitewatersource.name=Infinite Water Source
 tile.energyextractor.name=Energy Extractor
+tile.netherstar_block.name=Nether Star Block
 
 
 #HyperNodes
