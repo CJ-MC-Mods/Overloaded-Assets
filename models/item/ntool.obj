@@ -1,7 +1,7 @@
 # Wavefront OBJ exported by MilkShape 3D
 
-mtllib gtool.mtl
-
+mtllib ntool.mtl
+o Cube.001_Cube.004
 v 0.565024 0.362691 0.000500
 v 0.582024 0.362691 0.000500
 v 0.548024 0.362691 0.152500
