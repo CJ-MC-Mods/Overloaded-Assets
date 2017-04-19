@@ -1,18 +1,7 @@
 {
-  "forge_marker": 1,
   "variants": {
     "normal": {
-      "model": "overloaded:ntool.obj",
-      "transform": {
-        "firstperson_righthand": {
-          "rotation": [{"x":20},{"y":5}],
-          "translation": [0, 0, 0]
-        },
-        "firstperson_lefthand": {
-          "rotation": [{"x":0}],
-          "translation": [0, 0, 0]
-        }
-      }
+      "model": "overloaded:ntool.obj"
     }
   }
 }
