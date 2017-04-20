@@ -27,30 +27,30 @@ tile.7xCompressed:tile.stone.name=7x Compressed Stone
 tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
 # Energy
-tile.blockcreativegenerator.name=Creative Generator
-tile.blockinfinitecapacitor.name=Infinity Capacitor
+tile.creative_generator.name=Creative Generator
+tile.infinite_capacitor.name=Infinity Capacitor
 item.multi_tool.name=Multi Tool
 
 
 
 # Utility
-tile.blockinfinitebarrel.name=Infinity Barrel
-tile.blockinfinitetank.name=Infinity Tank
+tile.infinite_barrel.name=Infinity Barrel
+tile.infinite_tank.name=Infinity Tank
 tile.grill.name=Grill
-tile.blockinfinitewatersource.name=Infinite Water Source
-tile.energyextractor.name=Energy Extractor
-tile.netherstar_block.name=Nether Star Block
+tile.infinite_water_source.name=Infinite Water Source
+tile.energy_extractor.name=Energy Extractor
+tile.nether_star_block.name=Nether Star Block
 
 
 #HyperNodes
-tile.blockhyperenergysender.name=Hyper Energy Sender
-tile.blockhyperenergyreceiver.name=Hyper Energy Receiver
-tile.blockhyperitemsender.name=Hyper Item Sender
-tile.blockhyperitemreceiver.name=Hyper Item Receiver
-tile.blockhyperfluidsender.name=Hyper Fluid Sender
-tile.blockhyperfluidreceiver.name=Hyper Fluid Receiver
-item.itemlinkingcard.name=Hyper Linking Card
+tile.hyper_energy_sender.name=Hyper Energy Sender
+tile.hyper_energy_receiver.name=Hyper Energy Receiver
+tile.hyper_item_sender.name=Hyper Item Sender
+tile.hyper_item_receiver.name=Hyper Item Receiver
+tile.hyper_fluid_sender.name=Hyper Fluid Sender
+tile.hyper_fluid_receiver.name=Hyper Fluid Receiver
+item.linking_card.name=Hyper Linking Card
 
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
-itemGroup.Overloaded_TECH=Overloaded Tech
+itemGroup.Overloaded_Tech=Overloaded Tech
