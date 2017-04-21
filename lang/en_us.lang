@@ -26,6 +26,36 @@ tile.6xCompressed:tile.stone.name=6x Compressed Stone
 tile.7xCompressed:tile.stone.name=7x Compressed Stone
 tile.8xCompressed:tile.stone.name=8x Compressed Stone
 
+
+tile.1xCompressed:tile.dirt.name=1x Compressed Dirt
+tile.2xCompressed:tile.dirt.name=2x Compressed Dirt
+tile.3xCompressed:tile.dirt.name=3x Compressed Dirt
+tile.4xCompressed:tile.dirt.name=4x Compressed Dirt
+tile.5xCompressed:tile.dirt.name=5x Compressed Dirt
+tile.6xCompressed:tile.dirt.name=6x Compressed Dirt
+tile.7xCompressed:tile.dirt.name=7x Compressed Dirt
+tile.8xCompressed:tile.dirt.name=8x Compressed Dirt
+
+
+tile.1xCompressed:tile.obsidian.name=1x Compressed Obsidian
+tile.2xCompressed:tile.obsidian.name=2x Compressed Obsidian
+tile.3xCompressed:tile.obsidian.name=3x Compressed Obsidian
+tile.4xCompressed:tile.obsidian.name=4x Compressed Obsidian
+tile.5xCompressed:tile.obsidian.name=5x Compressed Obsidian
+tile.6xCompressed:tile.obsidian.name=6x Compressed Obsidian
+tile.7xCompressed:tile.obsidian.name=7x Compressed Obsidian
+tile.8xCompressed:tile.obsidian.name=8x Compressed Obsidian
+
+
+tile.1xCompressed:tile.hellrock.name=1x Compressed Netherrack
+tile.2xCompressed:tile.hellrock.name=2x Compressed Netherrack
+tile.3xCompressed:tile.hellrock.name=3x Compressed Netherrack
+tile.4xCompressed:tile.hellrock.name=4x Compressed Netherrack
+tile.5xCompressed:tile.hellrock.name=5x Compressed Netherrack
+tile.6xCompressed:tile.hellrock.name=6x Compressed Netherrack
+tile.7xCompressed:tile.hellrock.name=7x Compressed Netherrack
+tile.8xCompressed:tile.hellrock.name=8x Compressed Netherrack
+
 # Energy
 tile.creative_generator.name=Creative Generator
 tile.infinite_capacitor.name=Infinity Capacitor

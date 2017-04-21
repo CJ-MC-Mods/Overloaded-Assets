@@ -12,6 +12,9 @@
         "firstperson_lefthand": {
           "rotation": [{"x":20},{"y":5}],
           "translation": [0, 0, 0]
+        },
+        "gui": {
+          "rotation": [ {"x":30},{"y":225}]
         }
       }
     }

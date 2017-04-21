@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "overloaded:side_test" }
+    "normal": {
+      "model": "overloaded:nether_star_block"
+    }
   }
 }
