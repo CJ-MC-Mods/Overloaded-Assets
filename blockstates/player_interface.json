@@ -1,5 +1,6 @@
 {
   "variants": {
-    "normal": { "model": "overloaded:side_test" }
+    "normal": { "model": "overloaded:box.obj",
+      "custom": { "flip-v": true } }
   }
 }
