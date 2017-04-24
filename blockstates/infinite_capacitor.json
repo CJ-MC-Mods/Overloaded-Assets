@@ -1,5 +1,7 @@
 {
+  "forge_marker": 1,
   "variants": {
-    "normal": { "model": "overloaded:infinite_capacitor.obj" }
+    "normal": { "model": "overloaded:infinite_capacitor.obj" },
+	"custom": { "flip-v": true }
   }
 }
