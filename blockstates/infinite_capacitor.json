@@ -1,5 +1,5 @@
 {
   "variants": {
-    "normal": { "model": "overloaded:infinite_capacitor" }
+    "normal": { "model": "overloaded:infinite_capacitor.obj" }
   }
 }
