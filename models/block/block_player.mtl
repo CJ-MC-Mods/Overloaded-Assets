@@ -1,5 +1,6 @@
-# Blender MTL File: 'block.blend'
+# Blender MTL File: 'block_player.blend'
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:blocks/block_player
+
+map_Kd overloaded:blocks\block4
