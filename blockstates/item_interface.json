@@ -3,7 +3,8 @@
   "variants": {
     "normal": {
       "model": "overloaded:block.obj",
-	  "custom": { "flip-v": true }
+	  "custom": { "flip-v": true },
+      "transform": "forge:default-block"
     }
   }
 }

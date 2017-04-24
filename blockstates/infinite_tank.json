@@ -4,7 +4,8 @@
       "model": "overloaded:infinite_tank.obj",
       "custom": {
         "flip-v": true
-      }
+      },
+      "transform": "forge:default-block"
     }
   }
 }

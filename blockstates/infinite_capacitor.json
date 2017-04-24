@@ -4,7 +4,8 @@
       "model": "overloaded:infinite_capacitor.obj",
       "custom": {
         "flip-v": true
-      }
+      },
+      "transform": "forge:default-block"
     }
   }
 }
