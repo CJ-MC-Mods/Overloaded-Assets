@@ -1,0 +1,6 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.04.2017 04:35:53
+
+newmtl 02___Default
+map_Ka overloaded:blocks/test
+map_Kd overloaded:blocks/test

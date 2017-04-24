@@ -1,8 +1,9 @@
 {
+  "forge_marker": 1,
   "variants": {
-    "normal": { "model": "overloaded:box.obj",
-	"custom": { "flip-v": true }
-      
+    "normal": {
+      "model": "overloaded:block.obj",
+	  "custom": { "flip-v": true }
     }
   }
 }
