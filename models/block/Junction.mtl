@@ -1,9 +1,5 @@
-#
-# junction.mtl
-#
+# Blender MTL File: 'HYPER_BALL_01.blend'
+# Material Count: 1
 
-newmtl emerald_block
-map_Kd blocks/emerald_block
-
-newmtl anvil_base
-map_Kd blocks/anvil_base
+newmtl None
+map_Kd junction
