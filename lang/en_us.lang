@@ -60,8 +60,7 @@ tile.8xCompressed:tile.hellrock.name=8x Compressed Netherrack
 tile.creative_generator.name=Creative Generator
 tile.infinite_capacitor.name=Infinity Capacitor
 item.multi_tool.name=Multi Tool
-
-
+item.energy_shield.name=Energy Shield
 
 # Utility
 tile.infinite_barrel.name=Infinity Barrel
@@ -70,6 +69,14 @@ tile.grill.name=Grill
 tile.infinite_water_source.name=Infinite Water Source
 tile.energy_extractor.name=Energy Extractor
 tile.nether_star_block.name=Nether Star Block
+tile.player_interface.name=Player Interface
+tile.item_interface.name=Item Interface
+
+# Cores
+item.energy_core.name=Energy Core
+item.fluid_core.name=Fluid Core
+item.item_core.name=Item Core
+
 
 
 #HyperNodes
