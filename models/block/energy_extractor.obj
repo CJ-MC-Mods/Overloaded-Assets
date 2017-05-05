@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'AA_001.blend'
 # www.blender.org
-mtllib overloaded:blocks/energy_extractor.mtl
+mtllib energy_extractor.mtl
 o Cube.002
 v 0.920000 0.860000 0.140000
 v 0.920000 0.140001 0.140000
