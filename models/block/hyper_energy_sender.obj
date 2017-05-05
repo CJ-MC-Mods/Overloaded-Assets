@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'hyper_1.blend'
 # www.blender.org
-mtllib hyper_energy_receiver.mtl
+mtllib hyper_energy_sender.mtl
 o Cube
 v 0.000000 0.500000 1.000000
 v 0.000000 0.500000 0.000000

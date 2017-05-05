@@ -1,0 +1,5 @@
+# Blender MTL File: 'hyper_1.blend'
+# Material Count: 1
+
+newmtl None
+map_Kd overloaded:blocks/hyper_energy_sender
