@@ -1,7 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "overloaded:block/energy_extractor.obj",
+    "model": "overloaded:energy_extractor.obj",
     "custom": { "flip-v": true },
 	"transform": "forge:default-block"
   },
