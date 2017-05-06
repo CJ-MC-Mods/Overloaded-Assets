@@ -1,8 +1,9 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "overloaded:junction.obj",
-    "custom": { "flip-v": true }
+    "model": "overloaded:hyper_fluid_receiver.obj",
+    "custom": { "flip-v": true },
+	"transform": "forge:default-block"
   },
   "variants": {
     "normal": [{ }],
