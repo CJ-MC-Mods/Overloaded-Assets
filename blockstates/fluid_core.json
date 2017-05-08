@@ -3,6 +3,7 @@
   "variants": {
     "normal": {
       "model": "overloaded:fluid_core.obj",
+    "custom": { "flip-v": true },
       "transform": {
         "gui": {
           "scale": 0.85
