@@ -4,7 +4,7 @@
     "normal": {
       "model": "overloaded:energy_core.obj",
       "custom": { "flip-v": true },
-	  "transform": {,
+	  "transform": {
         "gui": {
           "scale": 0.75
         }
