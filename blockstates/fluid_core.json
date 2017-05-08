@@ -1,11 +1,14 @@
-{"forge_marker": 1,
+{
+  "forge_marker": 1,
   "variants": {
     "normal": {
       "model": "overloaded:fluid_core.obj",
-      "custom": {
-        "flip-v": true
-      },
-      "transform": "forge:default-block"
+      "custom": { "flip-v": true },
+      "transform": {
+        "gui": {
+          "scale": 1.00
+        }
+      }
     }
   }
 }
