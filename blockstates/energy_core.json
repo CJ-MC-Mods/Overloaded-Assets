@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "overloaded:energy_core.obj",
+      "custom": { "flip-v": true },
+      "transform": {
+        "gui": {
+          "scale": 0.75
+        }
+      }
+    }
+  }
+}
