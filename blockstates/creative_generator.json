@@ -1,1 +1,10 @@
-{ "variants": { "normal": { "model": "overloaded:creative_generator" }, "inventory": { "model": "overloaded:creative_generator.obj" } } }
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "overloaded:creative_generator.obj",
+	  "custom": { "flip-v": true },
+      "transform": "forge:default-block"
+    }
+  }
+}
