@@ -6,8 +6,8 @@
       "custom": { "flip-v": true },
       "transform": {
         "gui": {
-          "scale": 2.5,
-		  "translation": [0,-1,0]
+          "scale": 2,
+		  "translation": [0,-0.2,0]
         }
       }
     }
