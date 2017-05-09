@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'core.blend'
 # www.blender.org
-mtllib fluid_core.mtl
+mtllib item_core.mtl
 o Sphere.002
 v 0.411732 0.696154 0.442383
 v 0.374935 0.684773 0.435064
