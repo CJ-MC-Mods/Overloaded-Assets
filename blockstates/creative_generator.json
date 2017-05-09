@@ -1,1 +1,1 @@
-{ "variants": { "normal": { "model": "overloaded:creative_generator" }, "inventory": { "model": "overloaded:creative_generator" } } }
+{ "variants": { "normal": { "model": "overloaded:creative_generator" }, "inventory": { "model": "overloaded:creative_generator.obj" } } }
