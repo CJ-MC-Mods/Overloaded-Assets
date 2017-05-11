@@ -1,5 +1,15 @@
 {
+  "forge_marker": 1,
   "variants": {
-    "normal": { "model": "overloaded:infinite_water_block" }
+    "normal": {
+      "model": "overloaded:infinite_water_source.obj",
+    "custom": { "flip-v": true },
+      "transform": {
+        "gui": {
+          "scale": 2,
+          "translation": [0,0.1,0]
+        }
+      }
+    }
   }
 }
