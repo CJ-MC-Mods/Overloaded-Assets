@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'W1_block.blend'
 # www.blender.org
-mtllib infinite_water_block.mtl
+mtllib infinite_water_source.mtl
 o Plane.001_Plane.011
 v 0.380000 0.992000 0.008000
 v 0.008000 0.992000 0.380000
