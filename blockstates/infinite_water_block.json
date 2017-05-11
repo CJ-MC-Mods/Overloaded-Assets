@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "variants": {
     "normal": {
-      "model": "overloaded:block/infinite_water_source.obj",
+      "model": "overloaded:infinite_water_source.obj",
     "custom": { "flip-v": true },
       "transform": {
         "gui": {
