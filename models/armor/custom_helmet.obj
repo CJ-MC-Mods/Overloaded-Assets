@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'helm.blend'
 # www.blender.org
-mtllib draconic_helmet.mtl
+mtllib custom_helmet.mtl
 o draconic_helmet.001_draconic_helmet.006
 v 4.962208 4.482369 2.499997
 v -1.537792 4.482368 2.499998
