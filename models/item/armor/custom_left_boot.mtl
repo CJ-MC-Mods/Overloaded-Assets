@@ -8,4 +8,4 @@ Kd 0.8 0.8 0.8
 Ks 0.8 0.8 0.8
 d 1
 illum 2
-map_Kd map_Kd oveloaded:armor/custom_right_boot
+map_Kd map_Kd overloaded:armors/custom_left_boot

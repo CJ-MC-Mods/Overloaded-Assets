@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'steve.blend'
 # www.blender.org
-mtllib overloaded_helmet.mtl
+mtllib custom_helmet.mtl
 o Respirator2_Cylinder.003
 v -0.682020 2.979003 -0.256862
 v -0.654329 2.980362 -0.256862

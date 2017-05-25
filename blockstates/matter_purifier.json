@@ -1,0 +1,8 @@
+{"forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "overloaded:side_test",
+      "transform": "forge:default-block"
+    }
+  }
+}
