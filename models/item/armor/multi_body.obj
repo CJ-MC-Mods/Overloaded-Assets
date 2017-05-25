@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'rig.blend'
 # www.blender.org
-mtllib multi_right_arm.mtl
+mtllib multi_body.mtl
 o left_arm_Cube.003
 v -0.144770 -0.817736 -0.530876
 v 0.125500 -0.817736 -0.530876
