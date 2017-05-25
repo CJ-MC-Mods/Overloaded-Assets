@@ -1,0 +1,9 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "overloaded:armor/multi_helmet.obj",
+      "custom": { "flip-v": true }
+    }
+  }
+}
