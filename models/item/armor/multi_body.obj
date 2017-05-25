@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'Empty.blend'
 # www.blender.org
-mtllib custom_body.mtl
+mtllib multi_body.mtl
 o Cube
 v -0.181646 1.451436 0.208676
 v -0.181646 1.451436 0.236387

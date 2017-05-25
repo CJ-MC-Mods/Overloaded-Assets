@@ -1,7 +1,7 @@
-# Blender MTL File: 'draconic_right_arm.blend'
+# Blender MTL File: 'draconic_left_leg.blend11'
 # Material Count: 1
 
-newmtl None.005
+newmtl None.002
 Ns 0.000000
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
@@ -10,4 +10,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd map_Kd overloaded:armors/custom_right_arm
+map_Kd map_Kd overloaded:armors/multi_left_leg

@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'draconic_belt.blend'
 # www.blender.org
-mtllib custom_belt.mtl
+mtllib multi_belt.mtl
 o RIGHT_Cube.011
 v -2.750000 0.000000 -4.300000
 v -2.750000 1.500000 -4.300000

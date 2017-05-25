@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'draconic_right_leg.blend'
 # www.blender.org
-mtllib custom_right_leg.mtl
+mtllib multi_right_leg.mtl
 o Cube_Cube.002
 v 1.822751 -0.499999 0.032000
 v 2.422752 -0.499999 0.032000

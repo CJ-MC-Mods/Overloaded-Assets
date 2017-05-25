@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'draconic_right_arm.blend'
 # www.blender.org
-mtllib custom_right_arm.mtl
+mtllib multi_right_arm.mtl
 o Cube.000
 v 1.300000 0.700000 -0.111515
 v -2.600000 0.700000 -0.111516

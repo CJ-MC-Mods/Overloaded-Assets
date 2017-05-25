@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'draconic_right_boot.blend'
 # www.blender.org
-mtllib custom_right_boot.mtl
+mtllib multi_right_boot.mtl
 o Cube_Cube.001
 v -1.759248 0.029949 1.699275
 v -1.759248 0.029949 -2.300725
