@@ -1,7 +1,7 @@
 # Blender MTL File: 'rig.blend'
-# Material Count: 1
+# Material Count: 3
 
-newmtl None
+newmtl body
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -11,3 +11,23 @@ Ni 1.000000
 d 1.000000
 illum 2
 map_Kd overloaded:armors/multi_body
+
+newmtl left_arm
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl right_arm
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
