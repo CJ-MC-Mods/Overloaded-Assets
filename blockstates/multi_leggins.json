@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "variants": {
     "normal": {
-      "model": "overloaded:armor/multi_leggins.obj",
+      "model": "overloaded:armor/multi_left_leg.obj",
       "custom": { "flip-v": true }
     }
   }

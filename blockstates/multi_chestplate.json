@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "variants": {
     "normal": {
-      "model": "overloaded:armor/multi_chestplatet.obj",
+      "model": "overloaded:armor/multi_body.obj",
       "custom": { "flip-v": true }
     }
   }
