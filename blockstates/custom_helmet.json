@@ -3,13 +3,7 @@
   "variants": {
     "normal": {
       "model": "overloaded:armor/custom_helmet.obj",
-      "custom": { "flip-v": true },
-      "transform": {
-        "gui": {
-          "scale": 2,
-          "translation": [0.02,-0.35,0]
-        }
-      }
+      "custom": { "flip-v": true }
     }
   }
 }
