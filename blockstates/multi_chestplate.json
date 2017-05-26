@@ -1,9 +1,16 @@
 {
   "forge_marker": 1,
-  "variants": {
-    "normal": {
-      "model": "overloaded:armor/multi_body.obj",
-      "custom": { "flip-v": true }
+  "defaults": {
+    "model": "overloaded:armor/multi_body.obj",
+    "transform": {
+        "scale": 0.0625
+    },
+    "submodel": {
+      "rightArm": { "model": "overloaded:armor/multi_right_arm.obj"},
+      "leftArm": { "model": "overloaded:armor/multi_left_arm.obj"}
     }
+  },
+  "variants": {
+    "normal": [{ }]
   }
 }
