@@ -7,6 +7,14 @@
     }
   },
   "variants": {
-    "normal": [{}]
+    "normal": [{}],
+    "gui": {
+      "model": "overloaded:armor/multi_left_boot.obj",
+      "transform": {
+        "scale": 0.04,
+        "rotation": { "y": 90  },
+        "translation": [0,-0.1,0]
+      }
+    }
   }
 }

@@ -3,10 +3,18 @@
   "defaults": {
     "model": "overloaded:armor/multi_body.obj",
     "transform": {
-        "scale": 0.0625
+      "scale": 0.0625
     }
   },
   "variants": {
-    "normal": [{}]
+    "normal": [{}],
+    "gui": {
+      "model": "overloaded:armor/multi_body.obj",
+      "transform": {
+        "scale": 0.04,
+        "rotation": { "y": 90  },
+        "translation": [0,-0.1,0]
+      }
+    }
   }
 }
