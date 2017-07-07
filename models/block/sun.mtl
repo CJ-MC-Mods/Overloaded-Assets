@@ -4,5 +4,5 @@
 newmtl 01___Default
 Ka 0.5882 0.5882 0.5882
 Kd 0.5882 0.5882 0.5882
-map_Ka overloaded:blocks/sun/red_two
-map_Kd overloaded:blocks/sun/red_two
+map_Ka overloaded:dynamic/blocks/sun/red_two
+map_Kd overloaded:dynamic/blocks/sun/red_two

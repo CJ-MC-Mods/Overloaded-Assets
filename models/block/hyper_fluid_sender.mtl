@@ -2,4 +2,4 @@
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:blocks/hyper_fluid_sender
+map_Kd overloaded:dynamic/blocks/hyper_fluid_sender

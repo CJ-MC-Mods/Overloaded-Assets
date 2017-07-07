@@ -2,4 +2,4 @@ newmtl None.002
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
 d 1.000000
-map_Kd overloaded:armors/multi_leg
+map_Kd overloaded:dynamic/armors/multi_leg

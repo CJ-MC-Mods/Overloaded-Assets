@@ -2,4 +2,4 @@ newmtl None.008
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 d 1.000000
-map_Kd overloaded:armors/multi_boot
+map_Kd overloaded:dynamic/armors/multi_boot

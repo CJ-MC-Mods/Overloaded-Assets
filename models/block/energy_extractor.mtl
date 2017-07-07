@@ -2,4 +2,4 @@
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:blocks/energy_extractor
+map_Kd overloaded:dynamic/blocks/energy_extractor

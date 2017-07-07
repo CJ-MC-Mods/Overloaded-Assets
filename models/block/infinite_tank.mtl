@@ -2,4 +2,4 @@
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:blocks/infinite_tank
+map_Kd overloaded:dynamic/blocks/infinite_tank

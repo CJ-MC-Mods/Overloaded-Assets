@@ -2,4 +2,4 @@
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:blocks/infinite_capacitor
+map_Kd overloaded:dynamic/blocks/infinite_capacitor

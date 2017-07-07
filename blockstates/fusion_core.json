@@ -24,7 +24,7 @@
       }
     },
     "textures": {
-      "#01___Default": "overloaded:blocks/sun/yellow"
+      "#01___Default": "overloaded:dynamic/blocks/sun/yellow"
     }
   },
   "variants": {
