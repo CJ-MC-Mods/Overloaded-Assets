@@ -8,7 +8,7 @@
   },
   "variants": {
     "normal": [{}],
-    "gui": {
+    "inventory": {
       "model": "overloaded:armor/multi_helmet.obj",
       "transform": {
         "scale": 0.04,

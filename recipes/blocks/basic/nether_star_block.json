@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "overloaded:nether_star_block"
+  },
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "N": {
+      "type": "forge:ore_dict",
+      "ore": "netherStar"
+    }
+  }
+}

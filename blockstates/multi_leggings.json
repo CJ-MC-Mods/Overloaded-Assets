@@ -8,7 +8,7 @@
   },
   "variants": {
     "normal": [{ }],
-    "gui": {
+    "inventory": {
       "model": "overloaded:armor/multi_left_leg.obj",
       "transform": {
         "scale": 0.04,

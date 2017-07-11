@@ -65,7 +65,6 @@ tile.8xCompressed:tile.gravel.name=8x Compressed Gravel
 # Energy
 tile.creative_generator.name=Creative Generator
 tile.infinite_capacitor.name=Infinity Capacitor
-item.multi_tool.name=Multi Tool
 item.energy_shield.name=Energy Shield
 
 # Utility
@@ -83,7 +82,12 @@ item.energy_core.name=Energy Core
 item.fluid_core.name=Fluid Core
 item.item_core.name=Item Core
 
-
+# Multi
+item.multi_tool.name=Multi Tool
+item.multi_helmet.name=Multi Helmet
+item.multi_boots.name=Multi Boots
+item.multi_chestplate.name=Multi Chestplate
+item.multi_leggings.name=Multi Leggings
 
 #HyperNodes
 tile.hyper_energy_sender.name=Hyper Energy Sender

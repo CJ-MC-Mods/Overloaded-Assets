@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "overloaded:hyper_fluid_receiver"
+  },
+  "pattern": [
+    "IRI",
+    "RNR",
+    "IRI"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    },
+    "R": {
+      "item": "minecraft:bucket"
+    },
+    "N": {
+      "item": "overloaded:nether_star_block"
+    }
+  }
+}

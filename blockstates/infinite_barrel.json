@@ -1,11 +1,13 @@
-{"forge_marker": 1,
+{ "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:infinite_barrel.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "transform": "forge:default-block"
+  },
   "variants": {
-    "normal": {
-      "model": "overloaded:infinite_barrel.obj",
-      "custom": {
-        "flip-v": true
-      },
-      "transform": "forge:default-block"
-    }
+    "normal": [{ }],
+    "inventory": [{ }]
   }
 }

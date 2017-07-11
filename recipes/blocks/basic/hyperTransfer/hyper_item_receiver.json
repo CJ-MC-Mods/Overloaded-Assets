@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "overloaded:hyper_item_receiver"
+  },
+  "pattern": [
+    "IRI",
+    "RNR",
+    "IRI"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    },
+    "R": {
+      "type": "forge:ore_dict",
+      "ore": "blockRedstone"
+    },
+    "N": {
+      "item": "overloaded:nether_star_block"
+    }
+  }
+}

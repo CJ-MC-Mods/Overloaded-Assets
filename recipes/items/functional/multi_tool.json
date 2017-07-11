@@ -1,0 +1,31 @@
+{
+  "result": {
+    "item": "overloaded:multi_tool"
+  },
+  "pattern": [
+    "NI ",
+    "IES",
+    " SB"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "N": {
+      "type": "forge:ore_dict",
+      "ore": "netherStar"
+    },
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "E": {
+      "item": "overloaded:energy_core"
+    },
+    "S": {
+      "item": "overloaded:nether_star_block"
+    },
+    "B": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    }
+  }
+}

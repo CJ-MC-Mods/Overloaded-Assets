@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "overloaded:infinite_tank"
+  },
+  "pattern": [
+    "GDG",
+    "DCD",
+    "GDG"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "blockDiamond"
+    },
+    "C": {
+      "item": "overloaded:fluid_core"
+    }
+  }
+}

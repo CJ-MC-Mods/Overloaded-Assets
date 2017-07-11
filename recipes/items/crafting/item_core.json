@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "overloaded:item_core"
+  },
+  "pattern": [
+    "NNN",
+    "NRN",
+    "NNN"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "R": {
+      "type": "forge:ore_dict",
+      "ore": "chest"
+    },
+    "N": {
+      "type": "forge:ore_dict",
+      "ore": "netherStar"
+    }
+  }
+}

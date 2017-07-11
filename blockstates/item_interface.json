@@ -1,10 +1,12 @@
 {
   "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:block.obj",
+    "custom": { "flip-v": true },
+    "transform": "forge:default-block"
+  },
   "variants": {
-    "normal": {
-      "model": "overloaded:block.obj",
-	  "custom": { "flip-v": true },
-      "transform": "forge:default-block"
-    }
+    "normal": [{ }],
+    "inventory": [{ }]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "overloaded:multi_helmet"
+  },
+  "pattern": [
+    "NEN",
+    "N N"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "N": {
+      "item": "overloaded:nether_star_block"
+    },
+    "E": {
+      "item": "overloaded:energy_core"
+    }
+  }
+}

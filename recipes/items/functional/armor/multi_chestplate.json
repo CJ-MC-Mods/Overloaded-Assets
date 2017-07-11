@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "overloaded:multi_chestplate"
+  },
+  "pattern": [
+    "N N",
+    "NEN",
+    "NNN"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "N": {
+      "item": "overloaded:nether_star_block"
+    },
+    "E": {
+      "item": "overloaded:energy_core"
+    }
+  }
+}

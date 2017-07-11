@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "overloaded:hyper_fluid_sender"
+  },
+  "pattern": [
+    "IRI",
+    "ENE",
+    "IRI"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    },
+    "R": {
+      "item": "minecraft:bucket"
+    },
+    "N": {
+      "item": "overloaded:nether_star_block"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  }
+}

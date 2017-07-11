@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "overloaded:infinite_water_source"
+  },
+  "pattern": [
+    "WGW",
+    "GDG",
+    "GGG"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "blockGlass"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "gemDiamond"
+    }
+  }
+}

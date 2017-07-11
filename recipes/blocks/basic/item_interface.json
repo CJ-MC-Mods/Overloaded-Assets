@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "overloaded:item_interface"
+  },
+  "pattern": [
+    "NDN",
+    "NCN",
+    "NNN"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:dragon_egg"
+    },
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "chestWood"
+    }
+  }
+}
