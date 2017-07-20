@@ -101,3 +101,7 @@ item.linking_card.name=Hyper Linking Card
 # Creative Tabs
 itemGroup.Overloaded_Compressed=Overloaded Compressed Blocks
 itemGroup.Overloaded_Tech=Overloaded Tech
+
+# Key Binds
+overloaded.key.noclip=Toggle No Clip
+overloaded.cat.key.multiarmor=Overloaded Multi-Armor
