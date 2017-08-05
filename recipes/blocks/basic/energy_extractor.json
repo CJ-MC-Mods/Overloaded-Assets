@@ -5,7 +5,7 @@
   "pattern": [
     "iri",
     "rbr",
-    "iri"
+    "ibi"
   ],
   "type": "forge:ore_shaped",
   "key": {
