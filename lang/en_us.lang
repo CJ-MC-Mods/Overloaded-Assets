@@ -105,3 +105,6 @@ itemGroup.Overloaded_Tech=Overloaded Tech
 # Key Binds
 overloaded.key.noclip=Toggle No Clip
 overloaded.cat.key.multiarmor=Overloaded Multi-Armor
+
+# Text
+text.compressed=Compressed
