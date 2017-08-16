@@ -2,16 +2,26 @@
   "forge_marker": 1,
   "defaults": {
     "model": "overloaded:item_core.obj",
-    "custom": { "flip-v": true },
+    "custom": {
+      "flip-v": true
+    },
     "transform": {
       "gui": {
         "scale": 2,
-        "translation": [0,0.1,0]
+        "translation": [
+          0,
+          0.1,
+          0
+        ]
       }
     }
   },
   "variants": {
-    "normal": [{}],
-    "inventory": [{}]
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
   }
 }

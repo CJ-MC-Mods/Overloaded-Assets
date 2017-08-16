@@ -2,11 +2,17 @@
   "forge_marker": 1,
   "defaults": {
     "model": "overloaded:block_player.obj",
-    "custom": { "flip-v": true },
+    "custom": {
+      "flip-v": true
+    },
     "transform": "forge:default-block"
   },
   "variants": {
-    "normal": [{ }],
-    "inventory": [{ }]
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
   }
 }

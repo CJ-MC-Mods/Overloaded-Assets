@@ -7,13 +7,21 @@
     }
   },
   "variants": {
-    "normal": [{}],
+    "normal": [
+      {}
+    ],
     "inventory": {
       "model": "overloaded:armor/multi_body.obj",
       "transform": {
         "scale": 0.04,
-        "rotation": { "y": 90  },
-        "translation": [0,-0.1,0]
+        "rotation": {
+          "y": 90
+        },
+        "translation": [
+          0,
+          -0.1,
+          0
+        ]
       }
     }
   }

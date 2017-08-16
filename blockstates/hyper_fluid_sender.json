@@ -2,11 +2,17 @@
   "forge_marker": 1,
   "defaults": {
     "model": "overloaded:hyper_fluid_sender.obj",
-    "custom": { "flip-v": true },
-	"transform": "forge:default-block"
+    "custom": {
+      "flip-v": true
+    },
+    "transform": "forge:default-block"
   },
   "variants": {
-    "normal": [{ }],
-    "inventory": [{ }]
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
   }
 }

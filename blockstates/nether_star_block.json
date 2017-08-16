@@ -4,7 +4,11 @@
     "model": "overloaded:nether_star_block"
   },
   "variants": {
-    "normal": [{ }],
-    "inventory": [{ }]
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
   }
 }
