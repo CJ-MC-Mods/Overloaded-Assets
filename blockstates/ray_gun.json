@@ -1,0 +1,70 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:zapper.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "transform": {
+      "firstperson_righthand": {
+        "rotation": [
+          {
+            "x": 90
+          },
+          {
+            "y": 0
+          }
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          {
+            "x": 90
+          },
+          {
+            "y": 0
+          }
+        ]
+      },
+      "gui": {
+        "rotation": [
+          {
+            "x": 0
+          },
+          {
+            "y":  45
+          }
+        ],
+        "scale": 2
+      },
+      "ground": {
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "fixed": {
+        "rotation": [
+          {
+            "y": 0
+          }
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "scale": 4
+    }
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
+  }
+}
