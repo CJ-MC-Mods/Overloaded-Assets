@@ -89,6 +89,9 @@ item.multi_boots.name=Multi Boots
 item.multi_chestplate.name=Multi Chestplate
 item.multi_leggings.name=Multi Leggings
 
+# Weapons
+item.ray_gun.name=Ray Gun
+
 #HyperNodes
 tile.hyper_energy_sender.name=Hyper Energy Sender
 tile.hyper_energy_receiver.name=Hyper Energy Receiver
