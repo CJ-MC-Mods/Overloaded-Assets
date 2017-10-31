@@ -9,54 +9,52 @@
       "firstperson_righthand": {
         "rotation": [
           {
-            "x": 90
+            "x": 20
           },
           {
-            "y": 0
+            "y": 5
           }
         ]
       },
       "firstperson_lefthand": {
         "rotation": [
           {
-            "x": 90
+            "x": 20
           },
           {
-            "y": 0
+            "y": 5
           }
         ]
       },
       "gui": {
         "rotation": [
           {
-            "x": 0
+            "x": 30
           },
           {
-            "y":  45
+            "y": 225
           }
-        ],
-        "scale": 2
+        ]
       },
       "ground": {
         "translation": [
           0,
-          0,
+          0.2,
           0
         ]
       },
       "fixed": {
         "rotation": [
           {
-            "y": 0
+            "y": 90
           }
         ],
         "translation": [
           0,
-          0,
+          0.2,
           0
         ]
-      },
-      "scale": 4
+      }
     }
   },
   "variants": {
