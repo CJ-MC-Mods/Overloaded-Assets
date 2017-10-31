@@ -1,5 +1,7 @@
+# Blender v2.78 (sub 0) OBJ File: 'Empty.blend'
+# www.blender.org
 mtllib railgun.mtl
-o railgun_Reciever
+o Reciever
 v 0.449402 0.537169 0.183544
 v 0.449399 0.535633 0.175920
 v 0.449478 0.581081 0.170037
