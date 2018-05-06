@@ -25,6 +25,7 @@ item.multi_helmet.name=Multi Helmet
 item.multi_boots.name=Multi Boots
 item.multi_chestplate.name=Multi Chestplate
 item.multi_leggings.name=Multi Leggings
+item.settings_editor.name=Multi-Armor Settings Editor
 
 # Weapons
 item.ray_gun.name=Ray Gun
