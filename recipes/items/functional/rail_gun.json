@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "overloaded:railgun"
+  },
+  "pattern": [
+    "SSE",
+    " SS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "E": {
+      "item": "overloaded:energy_core"
+    },
+    "S": {
+      "item": "overloaded:nether_star_block"
+    }
+  }
+}
