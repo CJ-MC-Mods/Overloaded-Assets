@@ -91,6 +91,7 @@ item.multi_leggings.name=Multi Leggings
 
 # Weapons
 item.ray_gun.name=Ray Gun
+item.railgun.name=Railgun
 
 #HyperNodes
 tile.hyper_energy_sender.name=Hyper Energy Sender
