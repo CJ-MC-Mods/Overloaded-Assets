@@ -12,7 +12,8 @@
       "item": "overloaded:energy_core"
     },
     "S": {
-      "item": "overloaded:nether_star_block"
+      "type": "forge:ore_dict",
+      "ore": "blockNetherStar"
     }
   }
 }

@@ -10,7 +10,8 @@
   "type": "forge:ore_shaped",
   "key": {
     "N": {
-      "item": "minecraft:nether_star"
+      "type": "forge:ore_dict",
+      "ore": "netherStar"
     },
     "D": {
       "item": "minecraft:dragon_egg"

@@ -18,7 +18,8 @@
       "ore": "blockRedstone"
     },
     "N": {
-      "item": "overloaded:nether_star_block"
+      "type": "forge:ore_dict",
+      "ore": "blockNetherStar"
     }
   }
 }
