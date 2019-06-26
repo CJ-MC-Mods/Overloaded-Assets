@@ -1,0 +1,51 @@
+{
+  "": "zh_CN.lang - Chinese localization file >",
+  "_comment": "Energy",
+  "block.overloaded.creative_generator": "创造模式发电机",
+  "block.overloaded.infinite_capacitor": "无限电容器",
+  "item.overloaded.energy_shield": "能量之盾",
+
+  "_comment": "Utility",
+  "block.overloaded.infinite_barrel": "无限储液器",
+  "block.overloaded.infinite_tank": "无限储物器",
+  "block.overloaded.grill": "烤架",
+  "block.overloaded.infinite_water_source": "无尽之水",
+  "block.overloaded.energy_extractor": "能量提取器",
+  "block.overloaded.nether_star_block": "下届之星块",
+  "block.overloaded.player_interface": "播放界面",
+  "block.overloaded.item_interface": "物品界面",
+
+  "_comment": "Cores",
+  "item.overloaded.energy_core": "能源核心",
+  "item.overloaded.fluid_core": "流体核心",
+  "item.overloaded.item_core": "物品核心",
+
+  "_comment": "Multi",
+  "item.overloaded.multi_tool": "多功能工具",
+  "item.overloaded.multi_helmet": "多功能头盔",
+  "item.overloaded.multi_boots": "多功能靴子",
+  "item.overloaded.multi_chestplate": "多功能胸甲",
+  "item.overloaded.multi_leggings": "多功能护腿",
+  "item.overloaded.settings_editor": "多功能盔甲设定编辑器",
+
+  "_comment": "Weapons",
+  "item.overloaded.ray_gun": "圣光之枪",
+  "item.overloaded.railgun": "超电磁炮",
+
+  "_comment": "HyperNodes",
+  "block.overloaded.hyper_energy_sender": "超级能量发送器",
+  "block.overloaded.hyper_energy_receiver": "超级能量接收器",
+  "block.overloaded.hyper_item_sender": "超级物品发送器",
+  "block.overloaded.hyper_item_receiver": "超级物品接受器",
+  "block.overloaded.hyper_fluid_sender": "超级流体发送器",
+  "block.overloaded.hyper_fluid_receiver": "超级流体接收器",
+  "item.overloaded.linking_card": "超级节点之卡",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.Overloaded_Compressed": "无尽存储|压缩方块",
+  "itemGroup.Overloaded_Tech": "无尽存储|科技",
+
+  "_comment": "Key Binds",
+  "overloaded.key.noclip": "切换 无缝连接 模式",
+  "overloaded.cat.key.multiarmor": "无尽存储|多功能盔甲",
+}

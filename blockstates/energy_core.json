@@ -17,11 +17,7 @@
     }
   },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": [
-      {}
+    "": [
     ]
   }
 }
