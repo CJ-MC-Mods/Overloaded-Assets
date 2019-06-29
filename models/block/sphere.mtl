@@ -2,5 +2,5 @@
 # File Created: 24.04.2017 04:35:53
 
 newmtl 02___Default
-map_Ka overloaded:blocks/test
-map_Kd overloaded:blocks/test
+map_Ka overloaded:block/test
+map_Kd overloaded:block/test

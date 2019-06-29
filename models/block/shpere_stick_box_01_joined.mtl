@@ -2,7 +2,7 @@
 # Material Count: 2
 
 newmtl None
-map_Kd overloaded:blocks/boxstick_01_text_01
+map_Kd overloaded:block/boxstick_01_text_01
 
 newmtl None_shpere_stick_box_01_join_test_02
-map_Kd overloaded:blocks/shpere_stick_box_01_join_test_02
+map_Kd overloaded:block/shpere_stick_box_01_join_test_02

@@ -1,0 +1,6 @@
+{
+  "parent": "item/iron_boots",
+  "textures": {
+    "all": "overloaded:item/multi_boot"
+  }
+}

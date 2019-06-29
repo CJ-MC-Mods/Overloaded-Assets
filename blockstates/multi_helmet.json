@@ -1,28 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:armor/multi_helmet.obj",
-    "transform": {
-      "scale": 0.0625
-    }
-  },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": {
-      "model": "overloaded:armor/multi_helmet.obj",
-      "transform": {
-        "scale": 0.04,
-        "rotation": {
-          "y": 90
-        },
-        "translation": [
-          0,
-          -0.1,
-          0
-        ]
-      }
+    "": {
+      "model": "overloaded:item/multi_helmet"
     }
   }
 }

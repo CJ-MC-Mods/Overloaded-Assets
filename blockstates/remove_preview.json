@@ -1,12 +1,7 @@
 {
-  "forge_marker": 1,
   "variants": {
-    "normal": {
-      "model": "overloaded:block/remove_preview",
-      "custom": {
-        "flip-v": true
-      },
-      "transform": "forge:default-block"
+    "": {
+      "model": "overloaded:block/remove_preview"
     }
   }
 }

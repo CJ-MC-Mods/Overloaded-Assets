@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "overloaded:block/creative_generator.obj"
+      "model": "overloaded:temp/block/creative_generator"
     }
   }
 }

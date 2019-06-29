@@ -2,4 +2,4 @@
 # Material Count: 1
 
 newmtl None
-map_Kd overloaded:dynamic/blocks/block_player
+map_Kd overloaded:dynamic/block/block_player

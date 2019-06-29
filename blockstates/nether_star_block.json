@@ -1,14 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:nether_star_block"
-  },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": [
-      {}
-    ]
+    "": {
+      "model": "overloaded:temp/block/nether_star_block"
+    }
   }
 }

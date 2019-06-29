@@ -1,15 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:side_test",
-    "transform": "forge:default-block"
-  },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": [
-      {}
-    ]
+    "": {
+      "model": "overloaded:temp/block/matter_purifier"
+    }
   }
 }

@@ -2,11 +2,11 @@
   "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
   "parent": "block/block",
   "textures": {
-    "0": "blocks/itemframe_background",
-    "1": "blocks/door_spruce_upper",
-    "2": "blocks/anvil_base",
-    "3": "blocks/furnace_top",
-    "4": "blocks/door_spruce_lower"
+    "0": "block/itemframe_background",
+    "1": "block/door_spruce_upper",
+    "2": "block/anvil_base",
+    "3": "block/furnace_top",
+    "4": "block/door_spruce_lower"
   },
   "elements": [
     {

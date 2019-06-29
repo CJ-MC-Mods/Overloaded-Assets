@@ -1,0 +1,6 @@
+{
+  "parent": "item/iron_leggings",
+  "textures": {
+    "all": "overloaded:item/multi_leg"
+  }
+}

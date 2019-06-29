@@ -1,68 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:ray_gun.obj",
-    "custom": {
-      "flip-v": true
-    },
-    "transform": {
-      "firstperson_righthand": {
-        "rotation": [
-          {
-            "x": 20
-          },
-          {
-            "y": 5
-          }
-        ]
-      },
-      "firstperson_lefthand": {
-        "rotation": [
-          {
-            "x": 20
-          },
-          {
-            "y": 5
-          }
-        ]
-      },
-      "gui": {
-        "rotation": [
-          {
-            "x": 30
-          },
-          {
-            "y": 225
-          }
-        ]
-      },
-      "ground": {
-        "translation": [
-          0,
-          0.2,
-          0
-        ]
-      },
-      "fixed": {
-        "rotation": [
-          {
-            "y": 90
-          }
-        ],
-        "translation": [
-          0,
-          0.2,
-          0
-        ]
-      }
-    }
-  },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": [
-      {}
-    ]
+    "": {
+      "model": "overloaded:item/ray_gun"
+    }
   }
 }

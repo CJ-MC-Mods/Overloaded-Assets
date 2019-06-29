@@ -2,13 +2,13 @@
   "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
   "parent": "block/orientable",
   "textures": {
-    "particle": "blocks/anvil_base",
-    "0": "blocks/stone_andesite_smooth",
-    "1": "blocks/anvil_base",
-    "2": "blocks/iron_block",
-    "3": "blocks/log_acacia",
-    "4": "blocks/lava_still",
-    "5": "blocks/iron_bars"
+    "particle": "block/anvil_base",
+    "0": "block/stone_andesite_smooth",
+    "1": "block/anvil_base",
+    "2": "block/iron_block",
+    "3": "block/log_acacia",
+    "4": "block/lava_still",
+    "5": "block/iron_bars"
   },
   "elements": [
     {

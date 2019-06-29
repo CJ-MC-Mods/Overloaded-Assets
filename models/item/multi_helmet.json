@@ -1,0 +1,6 @@
+{
+  "parent": "item/iron_helmet",
+  "textures": {
+    "all": "overloaded:item/multi_helmet"
+  }
+}

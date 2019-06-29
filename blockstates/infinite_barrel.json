@@ -1,15 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:infinite_barrel.obj",
-    "custom": {
-      "flip-v": true
-    },
-    "transform": "forge:default-block"
-  },
   "variants": {
     "": {
-      "model": "overloaded:blocks/infinite_barrel.obj"
+      "model": "overloaded:temp/block/infinite_barrel"
     }
   }
 }

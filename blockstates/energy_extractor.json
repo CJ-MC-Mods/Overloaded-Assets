@@ -1,36 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:energy_extractor.obj",
-    "custom": {
-      "flip-v": true
-    },
-    "transform": "forge:default-block"
-  },
   "variants": {
-    "normal": [
-      {}
-    ],
-    "inventory": [
-      {}
-    ],
-    "facing": {
-      "north": {},
-      "south": {
-        "y": 180
-      },
-      "west": {
-        "y": 270
-      },
-      "east": {
-        "y": 90
-      },
-      "up": {
-        "x": -90
-      },
-      "down": {
-        "x": 90
-      }
+    "": {
+      "model": "overloaded:temp/block/energy_extractor"
     }
   }
 }
