@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "overloaded:temp/block/true_infinite_barrel"
+    }
+  }
+}
