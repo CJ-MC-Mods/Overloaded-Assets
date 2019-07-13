@@ -46,6 +46,7 @@
   "itemGroup.Overloaded_Tech": "Overloaded Tech",
 
   "_comment": "Key Binds",
+  "overloaded.cat.key": "Overloaded",
   "overloaded.key.noclip": "Toggle No Clip",
-  "overloaded.cat.key.multiarmor": "Overloaded Multi-Armor"
+  "overloaded.key.railgun100x": "Railgun 100x Modifier"
 }
