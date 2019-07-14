@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'Empty.blend'
 # www.blender.org
-mtllib ntool.mtl
+mtllib multi_tool.mtl
 o Cylinder_Cylinder.003
 v 0.517159 0.294510 0.022403
 v 0.517159 0.277510 0.022403
