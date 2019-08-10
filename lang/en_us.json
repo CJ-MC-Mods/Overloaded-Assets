@@ -17,6 +17,7 @@
   "block.overloaded.nether_star_block": "Nether Star Block",
   "block.overloaded.player_interface": "Player Interface",
   "block.overloaded.item_interface": "Item Interface",
+  "block.overloaded.instant_furnace": "Instant Furnace",
 
   "_comment": "Cores",
   "item.overloaded.energy_core": "Energy Core",
