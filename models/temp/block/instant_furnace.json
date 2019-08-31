@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/orientable",
   "textures": {
-    "all": "overloaded:block/instant_furnace"
+    "top": "overloaded:block/instant_furnace_top",
+    "front": "overloaded:block/instant_furnace_front_on",
+    "side": "overloaded:block/instant_furnace_side"
   }
 }

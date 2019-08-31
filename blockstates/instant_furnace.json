@@ -1,7 +1,8 @@
 {
   "variants": {
-    "": {
-      "model": "overloaded:temp/block/instant_furnace"
-    }
+    "facing=north": { "model": "overloaded:temp/block/instant_furnace" },
+    "facing=south": { "model": "overloaded:temp/block/instant_furnace", "y": 180 },
+    "facing=west":  { "model": "overloaded:temp/block/instant_furnace", "y": 270 },
+    "facing=east":  { "model": "overloaded:temp/block/instant_furnace", "y": 90 }
   }
 }
