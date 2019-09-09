@@ -1,7 +1,15 @@
 {
+  "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:temp/block/creative_generator",
+    "custom": {
+      "flip-v": true
+    },
+    "transform": "forge:default-block"
+  },
   "variants": {
-    "": {
-      "model": "overloaded:temp/block/creative_generator"
-    }
+    "": [
+      {}
+    ]
   }
 }
