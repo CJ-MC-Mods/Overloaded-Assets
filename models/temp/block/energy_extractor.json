@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/orientable",
   "textures": {
-    "all": "overloaded:block/energy_extractor"
+    "top": "overloaded:block/energy_extractor_out",
+    "front": "overloaded:block/energy_extractor_in",
+    "side": "overloaded:block/energy_extractor_out"
   }
 }
