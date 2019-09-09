@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "overloaded:temp/block/nether_star_block"
+      "model": "overloaded:block/nether_star_block"
     }
   }
 }
