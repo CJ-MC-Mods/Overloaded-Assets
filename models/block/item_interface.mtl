@@ -3,3 +3,9 @@ Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 d 1.000000
 map_Kd overloaded:block/item_interface
+
+newmtl None_player_interface.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+d 1.000000
+map_Kd overloaded:block/item_interface
