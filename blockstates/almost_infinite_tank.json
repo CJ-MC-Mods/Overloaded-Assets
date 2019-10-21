@@ -1,7 +1,12 @@
 {
+  "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:block/infinite_tank.obj",
+    "transform": "forge:default-block"
+  },
   "variants": {
-    "": {
-      "model": "overloaded:temp/block/almost_infinite_tank"
-    }
+    "": [
+      {}
+    ]
   }
 }

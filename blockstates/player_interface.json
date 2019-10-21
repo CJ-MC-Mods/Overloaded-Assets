@@ -1,7 +1,12 @@
 {
+  "forge_marker": 1,
+  "defaults": {
+    "model": "overloaded:block/player_interface.obj",
+    "transform": "forge:default-block"
+  },
   "variants": {
-    "": {
-      "model": "overloaded:temp/block/player_interface"
-    }
+    "": [
+      {}
+    ]
   }
 }
