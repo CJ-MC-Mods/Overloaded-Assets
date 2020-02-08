@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "overloaded:item/fluid_core"
+    "all": "overloaded:block/hyper_energy_receiver"
   }
 }

@@ -1,10 +1,10 @@
 {
   "variants": {
-    "facing=north": { "model": "overloaded:temp/block/energy_extractor" },
-    "facing=south": { "model": "overloaded:temp/block/energy_extractor", "y": 180 },
-    "facing=west":  { "model": "overloaded:temp/block/energy_extractor", "y": 270 },
-    "facing=east":  { "model": "overloaded:temp/block/energy_extractor", "y": 90 },
-    "facing=up":  { "model": "overloaded:temp/block/energy_extractor", "x": 270 },
-    "facing=down":  { "model": "overloaded:temp/block/energy_extractor", "x": 90 }
+    "facing=north": { "model": "overloaded:block/transfer/energy_extractor" },
+    "facing=south": { "model": "overloaded:block/transfer/energy_extractor", "y": 180 },
+    "facing=west":  { "model": "overloaded:block/transfer/energy_extractor", "y": 270 },
+    "facing=east":  { "model": "overloaded:block/transfer/energy_extractor", "y": 90 },
+    "facing=up":    { "model": "overloaded:block/transfer/energy_extractor", "x": 270 },
+    "facing=down":  { "model": "overloaded:block/transfer/energy_extractor", "x": 90 }
   }
 }

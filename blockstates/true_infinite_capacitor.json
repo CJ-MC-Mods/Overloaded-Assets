@@ -1,12 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:block/true/infinite_capacitor.obj",
-    "transform": "forge:default-block"
-  },
   "variants": {
-    "": [
-      {}
-    ]
+    "": {
+      "model": "overloaded:block/storage/true_infinite_capacitor"
+    }
   }
 }
