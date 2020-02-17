@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "forge:item/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/item/multi_tool.obj",
   "textures": {
-    "all": "overloaded:item/multi_tool"
+    "particle": "overloaded:item/multi_tool"
   }
 }

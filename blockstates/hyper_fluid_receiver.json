@@ -1,12 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "overloaded:block/hyper_fluid_receiver.obj",
-    "transform": "forge:default-block"
-  },
   "variants": {
-    "": [
-      {}
-    ]
+    "": {
+      "model": "overloaded:block/transfer/hyper_fluid_receiver"
+    }
   }
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/block/storage/true_infinite_tank.obj",
+  "textures": {
+    "particle": "overloaded:block/storage/true_infinite_tank"
+  }
+}

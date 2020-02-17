@@ -1,0 +1,8 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/block/infinite_water_source.obj",
+  "textures": {
+    "particle": "overloaded:block/infinite_water_source"
+  }
+}

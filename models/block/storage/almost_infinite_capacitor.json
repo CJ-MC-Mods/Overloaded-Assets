@@ -1,0 +1,8 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/block/storage/almost_infinite_capacitor.obj",
+  "textures": {
+    "particle": "overloaded:block/storage/almost_infinite_capacitor"
+  }
+}

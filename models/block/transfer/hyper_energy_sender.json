@@ -1,0 +1,8 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/block/transfer/hyper_energy_sender.obj",
+  "textures": {
+    "particle": "overloaded:block/transfer/hyper_energy_sender"
+  }
+}

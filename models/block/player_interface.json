@@ -1,0 +1,8 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/block/player_interface.obj",
+  "textures": {
+    "particle": "overloaded:block/player_interface"
+  }
+}
