@@ -1,0 +1,7 @@
+{
+  "parent": "overloaded:item/infinite_core",
+  "textures": {
+    "texture": "overloaded:item/fluid_core",
+    "particle": "overloaded:item/fluid_core"
+  }
+}

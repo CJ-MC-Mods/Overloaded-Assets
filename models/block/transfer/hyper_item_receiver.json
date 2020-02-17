@@ -1,6 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:block/transfer/hyper_node",
   "textures": {
-    "all": "overloaded:block/hyper_item_receiver"
+    "texture": "overloaded:block/hyper_item_receiver",
+    "particle": "overloaded:block/hyper_item_receiver"
   }
 }

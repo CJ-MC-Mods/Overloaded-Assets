@@ -1,6 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:item/infinite_core",
   "textures": {
-    "all": "overloaded:item/item_core"
+    "texture": "overloaded:item/item_core",
+    "particle": "overloaded:item/item_core"
   }
 }

@@ -1,6 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:block/storage/infinite_container",
   "textures": {
-    "all": "overloaded:block/infinite_capacitor"
+    "texture": "overloaded:block/infinite_capacitor",
+    "particle": "overloaded:block/infinite_capacitor"
   }
 }

@@ -1,6 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:block/interface",
   "textures": {
-    "all": "overloaded:block/item_interface"
+    "texture": "overloaded:block/item_interface",
+    "particle": "overloaded:block/item_interface"
   }
 }
