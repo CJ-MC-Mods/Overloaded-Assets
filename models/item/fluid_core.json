@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:item/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/item/fluid_core.obj",
   "textures": {
-    "all": "overloaded:item/fluid_core"
+    "particle": "overloaded:item/fluid_core"
   }
 }

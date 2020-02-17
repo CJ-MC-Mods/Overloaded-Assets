@@ -1,5 +1,5 @@
 {
-  "parent": "forge:block/default",
+  "parent": "overloaded:item/default",
   "loader": "forge:obj",
   "model": "overloaded:models/item/railgun.obj",
   "textures": {

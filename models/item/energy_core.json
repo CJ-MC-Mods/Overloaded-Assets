@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "overloaded:item/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/item/energy_core.obj",
   "textures": {
-    "all": "overloaded:item/energy_core"
+    "particle": "overloaded:item/energy_core"
   }
 }

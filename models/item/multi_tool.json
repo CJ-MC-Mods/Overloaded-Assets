@@ -1,5 +1,5 @@
 {
-  "parent": "forge:item/default",
+  "parent": "overloaded:item/default",
   "loader": "forge:obj",
   "model": "overloaded:models/item/multi_tool.obj",
   "textures": {
