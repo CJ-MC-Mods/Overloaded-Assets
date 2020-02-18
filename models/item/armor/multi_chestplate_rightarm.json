@@ -1,0 +1,5 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/item/armor/multi_right_arm.obj"
+}

@@ -1,0 +1,5 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "overloaded:models/item/armor/multi_left_boot.obj"
+}
