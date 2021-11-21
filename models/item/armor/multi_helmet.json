@@ -1,5 +1,5 @@
 {
-  "parent": "forge:block/default",
   "loader": "forge:obj",
-  "model": "overloaded:models/item/armor/multi_helmet.obj"
+  "model": "overloaded:models/item/armor/multi_helmet.obj",
+  "flip-v": true
 }
