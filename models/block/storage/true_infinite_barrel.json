@@ -1,5 +1,5 @@
 {
-  "parent": "forge:block/default",
+  "parent": "minecraft:block/block",
   "loader": "neoforge:obj",
   "model": "overloaded:models/block/storage/true_infinite_barrel.obj",
   "textures": {

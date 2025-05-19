@@ -1,7 +1,11 @@
 {
   "variants": {
     "": {
-      "model": "overloaded:block/creative_generator"
+      "model": "overloaded:block/creative_generator",
+      "textures": {
+        "texture0": "minecraft:block/cobblestone",
+        "particle": "minecraft:block/stone"
+      }
     }
   }
 }

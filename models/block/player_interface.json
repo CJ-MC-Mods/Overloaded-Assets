@@ -1,5 +1,5 @@
 {
-  "parent": "forge:block/default",
+  "parent": "minecraft:block/block",
   "loader": "neoforge:obj",
   "model": "overloaded:models/block/player_interface.obj",
   "textures": {

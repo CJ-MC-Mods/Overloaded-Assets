@@ -1,5 +1,5 @@
 {
-  "parent": "forge:block/default",
+  "parent": "minecraft:block/block",
   "loader": "neoforge:obj",
   "model": "overloaded:models/item/armor/multi_belt.obj"
 }
