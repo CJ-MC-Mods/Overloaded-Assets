@@ -1,6 +1,6 @@
 {
   "parent": "overloaded:item/default",
-  "loader": "forge:obj",
+  "loader": "neoforge:obj",
   "model": "overloaded:models/item/ray_gun.obj",
   "textures": {
     "particle": "overloaded:item/ray_gun"

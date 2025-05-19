@@ -1,6 +1,6 @@
 {
   "parent": "forge:block/default",
-  "loader": "forge:obj",
+  "loader": "neoforge:obj",
   "model": "overloaded:models/block/item_interface.obj",
   "textures": {
     "particle": "overloaded:block/item_interface"

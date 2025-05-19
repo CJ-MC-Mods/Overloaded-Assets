@@ -1,6 +1,6 @@
 {
   "parent": "overloaded:item/default",
-  "loader": "forge:obj",
+  "loader": "neoforge:obj",
   "model": "overloaded:models/item/energy_core.obj",
   "textures": {
     "particle": "overloaded:item/energy_core"

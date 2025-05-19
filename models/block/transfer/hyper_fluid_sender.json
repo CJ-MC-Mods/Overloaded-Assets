@@ -1,6 +1,6 @@
 {
   "parent": "forge:block/default",
-  "loader": "forge:obj",
+  "loader": "neoforge:obj",
   "model": "overloaded:models/block/transfer/hyper_fluid_sender.obj",
   "textures": {
     "particle": "overloaded:block/transfer/hyper_fluid_sender"
